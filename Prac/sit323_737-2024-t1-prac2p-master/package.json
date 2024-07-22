@@ -1,0 +1,14 @@
+{
+  "name": "sit323_737-2024-t1-prac2p",
+  "version": "1.0.0",
+  "description": "SIT323 2.1P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jvellucci",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
